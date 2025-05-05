@@ -50,35 +50,9 @@ diario-croche-prototipo<br>
 ---
 ## Caso de Uso do Prototipo 
 
-@startuml
-left to right direction
-skinparam packageStyle rectangle
+![Caso de Uso](https://github.com/user-attachments/assets/077894ec-42dc-42d3-bed9-7948d3272d48)
 
-actor "Usuária Artesã" as Artesa
-actor "Visitante" as Visitante
 
-package "Sistema 'Nós' – Diário de Projetos de Crochê" {
-    
-    usecase "Criar conta" as UC1
-    usecase "Fazer login" as UC2
-    usecase "Criar novo projeto de crochê" as UC3
-    usecase "Adicionar passo a passo / imagem / PDF" as UC4
-    usecase "Visualizar projetos em andamento ou finalizados" as UC5
-    usecase "Desenhar gráfico online" as UC6
-    usecase "Comentar em projetos de outras artesãs" as UC7
-    usecase "Navegar pelos projetos públicos" as UC8
-
-}
-
-Artesa --> UC1
-Artesa --> UC2
-Artesa --> UC3
-Artesa --> UC4
-Artesa --> UC5
-Artesa --> UC6
-Artesa --> UC7
-Visitante --> UC8
-@enduml
 
 
 ##  Validação com personas
