@@ -61,9 +61,76 @@ Realizamos entrevistas simuladas com três tipos de usuárias. Os principais des
 ✅ Interesse em uma futura comunidade de interação  
 ✅ Valorização do foco exclusivo no crochê  
 
-Veja mais em [`/docs/validacao-com-personas.md`](docs/validacao-com-personas.md)
+# 🎯 Validação da Proposta com Personas
+
+## ✔️ Simulação com Personas
+
+Para validar a proposta, foi elaborada uma simulação com base em personas.  
+Os resultados indicam que a proposta do site é bem recebida, especialmente por permitir o acompanhamento individualizado de cada projeto e pela interface amigável.
+
+### 🔍 Destaques gerais
+
+- Facilidade para registrar projetos e visualizar o andamento.
+- Desejo por funcionalidade futura de interação entre artesãs.
+- Valorização do foco no crochê como nicho específico, pouco explorado em outras plataformas.
 
 ---
+
+## 👥 Entrevistas com Personas
+
+Para entender melhor as necessidades do público, foram simuladas entrevistas com três personas representativas:
+
+---
+
+### 👩‍🦱 Persona 1: **Dona Lúcia (61 anos)** – Artesã experiente  
+**Perfil:** Faz crochê há mais de 30 anos, vende peças por encomenda.  
+
+**Experiência com o site:**  
+- Achou fácil registrar projetos.  
+- Gostou de visualizar o andamento de cada item (ex: finalizado, em andamento).  
+- Sugeriu uma área de interação com outras artesãs.  
+**🗨️ Frase destaque:** “É bom ter um cantinho só pro crochê, tudo organizado.”
+
+---
+
+### 👩 Persona 2: **Paula (32 anos)** – Crocheteira iniciante  
+**Perfil:** Aprendeu crochê durante a pandemia, usa YouTube e redes sociais para aprender.  
+
+**Experiência com o site:**  
+- Aprovou a interface por ser limpa e intuitiva.  
+- Achou útil adicionar tutoriais passo a passo e salvar PDFs.  
+- Deseja ver projetos de outras artesãs como inspiração.  
+**🗨️ Frase destaque:** “Gostaria de poder comentar nos projetos das outras pessoas.”
+
+---
+
+### 👩‍🦰 Persona 3: **Karine (44 anos)** – Artesã autônoma e professora  
+**Perfil:** Dá aulas de crochê presenciais e online.  
+
+**Experiência com o site:**  
+- Valorizou a função de desenhar esquemas online e organizar projetos por categorias.  
+- Viu potencial para usar o site como apoio nas aulas.  
+- Comentou que um sistema de avaliações seria útil no futuro.  
+**🗨️ Frase destaque:** “Organização visual dos projetos ajuda até no ensino.”
+
+---
+
+## 📊 Gráfico: Validação das Funcionalidades
+
+A seguir, um resumo da percepção das personas sobre as principais funcionalidades:
+
+| Funcionalidade             | Dona Lúcia | Paula | Karine |
+|---------------------------|------------|--------|--------|
+| Cadastro de projetos      | 👍         | 👍     | 👍     |
+| Visualização do andamento | 👍         | 👍     | 👍     |
+| Upload de PDF/imagem      | –          | 👍     | 👍     |
+| Desenhar online           | –          | –      | 👍     |
+| Desejo por interação      | 👍         | 👍     | –      |
+| Interface amigável        | 👍         | 👍     | 👍     |
+
+---
+
+-
 
 
 ## 🔗 Link para o protótipo no Figma
