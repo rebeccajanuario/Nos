@@ -42,14 +42,12 @@ diario-croche-prototipo<br>
 - Cadastro e login de usuárias
 - Criação de projeto com:
   - 🔘 Imagem
-  - 🔘 Passo a passo
   - 🔘 PDF
   - 🔘 Desenho online
 - Registro de materiais usados
-- Cronograma semanal por projeto
-- Visualização do andamento por etapas
-- Controle de estoque de materiais
-- Feedback e planejamento de novos projetos
+- Cronograma por projeto
+- [Futuramente]Controle de estoque de materiais
+- [Futuramente]Feedback e planejamento de novos projetos
 - [Futuramente] Área de interação entre usuárias
 
 ---
@@ -67,26 +65,16 @@ Veja mais em [`/docs/validacao-com-personas.md`](docs/validacao-com-personas.md)
 
 ---
 
-## 📸 Capturas do protótipo
-
-| Página | Imagem |
-|-------|--------|
-| Home  | ![](figma/capturas/home.png) |
-| Criar Projeto | ![](figma/capturas/criar-projeto.png) |
-| Cronograma | ![](figma/capturas/cronograma.png) |
-| Materiais | ![](figma/capturas/materiais.png) |
-
----
 
 ## 🔗 Link para o protótipo no Figma
 
-[Acesse o protótipo no Figma](https://www.figma.com/file/SEU-LINK-AQUI)
+[Acesse o protótipo no Figma]([https://www.figma.com/file/SEU-LINK-AQUI](https://www.figma.com/proto/8zCks94mNkPDATxEIRV1iJ/PROJETO-TCC-PROTOTIPO-SITE-N%C3%93S?page-id=0%3A1&node-id=611-1071&viewport=-3618%2C798%2C0.36&t=HessaM2QH2spbAox-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=687%3A2466))
 
 ---
 
 ## 👩‍💻 Autora
 
-Desenvolvido por **Seu Nome**  
+Desenvolvido por **Rebecca Januario**  
 Curso: Análise e Desenvolvimento de Sistemas – IFSP Campinas  
 Orientação: Prof. Emilio
 
