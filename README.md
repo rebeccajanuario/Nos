@@ -33,10 +33,10 @@ diario-croche-prototipo<br>
 │   ├── Novo Projeto Crochê - por desenho.png<br>
 │   ├── Novo Projeto Crochê - por PDF.png<br>
 │   ├── Cadastro.png<br>
+<br>
+<br>
 
-
-
-- Cadastro e login de usuárias
+- Cadastro e login de usuários
 - Criação de projeto com:
   - 🔘 Imagem
   - 🔘 PDF
