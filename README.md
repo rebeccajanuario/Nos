@@ -117,7 +117,6 @@ A seguir, um resumo da percepção das personas sobre as principais funcionalida
 | Funcionalidade             | Dona Lúcia | Paula | Karine |
 |---------------------------|------------|--------|--------|
 | Cadastro de projetos      | 👍         | 👍     | 👍     |
-| Visualização do andamento | 👍         | 👍     | 👍     |
 | Upload de PDF/imagem      | –          | 👍     | 👍     |
 | Desenhar online           | –          | –      | 👍     |
 | Desejo por interação      | 👍         | 👍     | –      |
