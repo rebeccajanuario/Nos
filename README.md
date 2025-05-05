@@ -16,21 +16,22 @@ Criar uma solução que ajude artesãs a registrar, planejar e acompanhar seus p
 ---
 
 ## 📌 Funcionalidades previstas no protótipo
-
-diario-croche-prototipo/
-├── README.md
-├── /figma/
-│   ├── prototipo.fig (ou link para o Figma)
-│   └── capturas/
-│       ├── home.png
-│       ├── criar-projeto.png
-│       ├── materiais.png
-│       └── cronograma.png
-├── /docs/
-│   ├── entrevistas.md
-│   ├── validacao-com-personas.md
-│   └── funcionalidades-planejadas.md
-└── LICENSE (opcional)
+/br
+diario-croche-prototipo//br
+├── README.md/br
+├── /figma//br
+│   ├── prototipo.fig (ou link para o Figma)/br
+│   └── capturas//br
+│       ├── home.png/br
+│       ├── criar-projeto.png/br
+│       ├── materiais.png/br
+│       └── cronograma.png/br
+├── /docs//br
+│   ├── entrevistas.md/br
+│   ├── validacao-com-personas.md/br
+│   └── funcionalidades-planejadas.md/br
+└── LICENSE (opcional)/br
+/br
 
 - Cadastro e login de usuárias
 - Criação de projeto com:
