@@ -50,7 +50,8 @@ diario-croche-prototipo<br>
 ---
 ## Caso de Uso do Prototipo 
 
-![Caso de Uso](https://github.com/user-attachments/assets/077894ec-42dc-42d3-bed9-7948d3272d48)
+![Caso de Uso](https://github.com/user-attachments/assets/12ae084c-2ec1-448a-b77a-de4f5900096d)
+
 
 
 
