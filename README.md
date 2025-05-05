@@ -7,6 +7,8 @@ Este repositório contém o **protótipo de interface web** criado no Figma para
 
 ---
 
+
+
 ## 🎯 Objetivo
 
 Criar uma solução que ajude artesãs a registrar, planejar e acompanhar seus projetos de crochê de forma organizada, visual e intuitiva.
@@ -14,6 +16,21 @@ Criar uma solução que ajude artesãs a registrar, planejar e acompanhar seus p
 ---
 
 ## 📌 Funcionalidades previstas no protótipo
+
+diario-croche-prototipo/
+├── README.md
+├── /figma/
+│   ├── prototipo.fig (ou link para o Figma)
+│   └── capturas/
+│       ├── home.png
+│       ├── criar-projeto.png
+│       ├── materiais.png
+│       └── cronograma.png
+├── /docs/
+│   ├── entrevistas.md
+│   ├── validacao-com-personas.md
+│   └── funcionalidades-planejadas.md
+└── LICENSE (opcional)
 
 - Cadastro e login de usuárias
 - Criação de projeto com:
