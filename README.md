@@ -54,17 +54,6 @@ diario-croche-prototipo<br>
 
 ## 🧪 Validação com personas
 
-Realizamos entrevistas simuladas com três tipos de usuárias. Os principais destaques:
-
-✅ Facilidade de registrar e acompanhar projetos  
-✅ Interface clara e amigável  
-✅ Interesse em uma futura comunidade de interação  
-✅ Valorização do foco exclusivo no crochê  
-
-# 🎯 Validação da Proposta com Personas
-
-## ✔️ Simulação com Personas
-
 Para validar a proposta, foi elaborada uma simulação com base em personas.  
 Os resultados indicam que a proposta do site é bem recebida, especialmente por permitir o acompanhamento individualizado de cada projeto e pela interface amigável.
 
