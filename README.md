@@ -48,13 +48,45 @@ diario-croche-prototipo<br>
 - [Futuramente] Área de interação entre usuárias
 
 ---
+## Caso de Uso do Prototipo 
 
-## 🧪 Validação com personas
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Usuária Artesã" as Artesa
+actor "Visitante" as Visitante
+
+package "Sistema 'Nós' – Diário de Projetos de Crochê" {
+    
+    usecase "Criar conta" as UC1
+    usecase "Fazer login" as UC2
+    usecase "Criar novo projeto de crochê" as UC3
+    usecase "Adicionar passo a passo / imagem / PDF" as UC4
+    usecase "Visualizar projetos em andamento ou finalizados" as UC5
+    usecase "Desenhar gráfico online" as UC6
+    usecase "Comentar em projetos de outras artesãs" as UC7
+    usecase "Navegar pelos projetos públicos" as UC8
+
+}
+
+Artesa --> UC1
+Artesa --> UC2
+Artesa --> UC3
+Artesa --> UC4
+Artesa --> UC5
+Artesa --> UC6
+Artesa --> UC7
+Visitante --> UC8
+@enduml
+
+
+##  Validação com personas
 
 Para validar a proposta, foi elaborada uma simulação com base em personas.  
 Os resultados indicam que a proposta do site é bem recebida, especialmente por permitir o acompanhamento individualizado de cada projeto e pela interface amigável.
 
-### 🔍 Destaques gerais
+###  Destaques gerais
 
 - Facilidade para registrar projetos e visualizar o andamento.
 - Desejo por funcionalidade futura de interação entre artesãs.
@@ -62,13 +94,13 @@ Os resultados indicam que a proposta do site é bem recebida, especialmente por 
 
 ---
 
-## 👥 Entrevistas com Personas
+##  Entrevistas com Personas
 
 Para entender melhor as necessidades do público, foram simuladas entrevistas com três personas representativas:
 
 ---
 
-### 👩‍🦱 Persona 1: **Dona Lúcia (61 anos)** – Artesã experiente  
+###  Persona 1: **Dona Lúcia (61 anos)** – Artesã experiente  
 **Perfil:** Faz crochê há mais de 30 anos, vende peças por encomenda.  
 
 **Experiência com o site:**  
@@ -79,7 +111,7 @@ Para entender melhor as necessidades do público, foram simuladas entrevistas co
 
 ---
 
-### 👩 Persona 2: **Paula (32 anos)** – Crocheteira iniciante  
+###  Persona 2: **Paula (32 anos)** – Crocheteira iniciante  
 **Perfil:** Aprendeu crochê durante a pandemia, usa YouTube e redes sociais para aprender.  
 
 **Experiência com o site:**  
@@ -90,7 +122,7 @@ Para entender melhor as necessidades do público, foram simuladas entrevistas co
 
 ---
 
-### 👩‍🦰 Persona 3: **Karine (44 anos)** – Artesã autônoma e professora  
+###  Persona 3: **Karine (44 anos)** – Artesã autônoma e professora  
 **Perfil:** Dá aulas de crochê presenciais e online.  
 
 **Experiência com o site:**  
