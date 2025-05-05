@@ -134,6 +134,8 @@ A seguir, um resumo da percepção das personas sobre as principais funcionalida
 
 [Link do Youtube](https://youtu.be/-AfUEOf9eAs)
 
+[Link do Projeto no Figma](https://www.figma.com/design/8zCks94mNkPDATxEIRV1iJ/PROJETO-TCC-PROTOTIPO-SITE-N%C3%93S?node-id=756-2415&t=d1uxBuK7KOcyOeIv-1)
+
 ---
 ## 👩‍💻 Autora
 
