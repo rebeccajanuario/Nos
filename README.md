@@ -131,7 +131,7 @@ A seguir, um resumo da percepção das personas sobre as principais funcionalida
 
 [Acesse o protótipo no Figma](https://www.figma.com/proto/8zCks94mNkPDATxEIRV1iJ/PROJETO-TCC-PROTOTIPO-SITE-N%C3%93S?page-id=0%3A1&node-id=611-1071&viewport=-3618%2C798%2C0.36&t=HessaM2QH2spbAox-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=687%3A2466)
 
-[Link do Youtube](https://youtu.be/-AfUEOf9eAs)
+[Link do Youtube](https://youtu.be/DriD3Zn1VFY?si=4ga5aBjHNjMc9bUu)
 
 [Link do Projeto no Figma](https://www.figma.com/design/8zCks94mNkPDATxEIRV1iJ/PROJETO-TCC-PROTOTIPO-SITE-N%C3%93S?node-id=756-2415&t=d1uxBuK7KOcyOeIv-1)
 
