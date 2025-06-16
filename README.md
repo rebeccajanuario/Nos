@@ -7,7 +7,7 @@
 [Link do Youtube](https://youtu.be/DriD3Zn1VFY?si=4ga5aBjHNjMc9bUu)
 
 [Link do Projeto no Figma](https://www.figma.com/design/8zCks94mNkPDATxEIRV1iJ/PROJETO-TCC-PROTOTIPO-SITE-N%C3%93S?node-id=756-2415&t=d1uxBuK7KOcyOeIv-1)
-
+Para baixar é necessário fazer login do Google
 
 
 
