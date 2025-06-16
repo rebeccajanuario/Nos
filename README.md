@@ -8,7 +8,7 @@
 
 [Link do Projeto no Figma](https://www.figma.com/design/8zCks94mNkPDATxEIRV1iJ/PROJETO-TCC-PROTOTIPO-SITE-N%C3%93S?node-id=756-2415&t=d1uxBuK7KOcyOeIv-1)
 Para baixar é necessário fazer login do Google
-
+https://www.figma.com/community/file/1516543509033147540
 
 
 # 🧶 Diário de Projetos de Crochê "NÓS" – Protótipo
